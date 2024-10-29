@@ -1,0 +1,41 @@
+0000000   #   i   n   c   l   u   d   e       <   i   o   s   t   r   e
+0000010   a   m   >  \n   u   s   i   n   g       n   a   m   e   s   p
+0000020   a   c   e       s   t   d   ;  \n  \n   i   n   t       m   a
+0000030   i   n   (   )       {  \n                   i   n   t       i
+0000040   d   a   d   e   ;  \n                   f   l   o   a   t    
+0000050   a   l   t   u   r   a   ;  \n  \n                   /   /    
+0000060   S   o   l   i   c   i   t   a   r       e       r   e   c   e
+0000070   b   e   r       a       i   d   a   d   e       d   o       u
+0000080   s   u   Ã   ¡   r   i   o  \n                   c   o   u   t
+0000090       <   <       "   D   i   g   i   t   e       s   u   a    
+00000a0   i   d   a   d   e   :       "   ;      \n                   c
+00000b0   i   n       >   >       i   d   a   d   e   ;  \n  \n        
+00000c0           /   /       S   o   l   i   c   i   t   a   r       e
+00000d0       r   e   c   e   b   e   r       a       a   l   t   u   r
+00000e0   a       d   o       u   s   u   Ã   ¡   r   i   o  \n        
+00000f0           c   o   u   t       <   <       "   D   i   g   i   t
+0000100   e       s   u   a       a   l   t   u   r   a       e   m    
+0000110   m   e   t   r   o   s   :       "   ;      \n                
+0000120   c   i   n       >   >       a   l   t   u   r   a   ;  \n  \n
+0000130                   /   /       E   x   i   b   i   r       i   d
+0000140   a   d   e       e       a   l   t   u   r   a  \n            
+0000150       c   o   u   t       <   <       "   V   o   c   Ã   ª    
+0000160   t   e   m       "       <   <       i   d   a   d   e       <
+0000170   <       "       a   n   o   s       e       "  \n            
+0000180                           <   <       a   l   t   u   r   a    
+0000190   <   <       "       m   e   t   r   o   s       d   e       a
+00001a0   l   t   u   r   a   .   "       <   <       e   n   d   l   ;
+00001b0  \n  \n                   /   /       C   o   n   v   e   r   t
+00001c0   e   r       a       a   l   t   u   r   a       p   a   r   a
+00001d0       c   e   n   t   Ã   ­   m   e   t   r   o   s  \n        
+00001e0           i   n   t       a   l   t   u   r   a   _   c   m    
+00001f0   =       s   t   a   t   i   c   _   c   a   s   t   <   i   n
+0000200   t   >   (   a   l   t   u   r   a       *       1   0   0   )
+0000210   ;          \n                   c   o   u   t       <   <    
+0000220   "   S   u   a       a   l   t   u   r   a       e   m       c
+0000230   e   n   t   Ã   ­   m   e   t   r   o   s       Ã   ©   :    
+0000240   "      \n                                       <   <       a
+0000250   l   t   u   r   a   _   c   m       <   <       "       c   m
+0000260   .   "       <   <       e   n   d   l   ;  \n  \n            
+0000270       r   e   t   u   r   n       0   ;  \n   }  \n            
+000027d
