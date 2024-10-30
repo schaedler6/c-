@@ -1,0 +1,45 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    char operacao;
+    float num1, num2;
+
+    // Exibe opções para o usuário
+    cout << "Escolha uma operação (+, -, *, /): ";
+    cin >> operacao;
+
+    // Solicita dois números do usuário
+    cout << "Digite dois números: ";
+    cin >> num1 >> num2;
+
+    // Realiza a operação escolhida
+    switch(operacao) {
+        case '+':
+            cout << num1 << " + " << num2 << " = " << num1 + num2 << endl;
+            break;
+
+        case '-':
+            cout << num1 << " - " << num2 << " = " << num1 - num2 << endl;
+            break;
+
+        case '*':
+            cout << num1 << " * " << num2 << " = " << num1 * num2 << endl;
+            break;
+
+        case '/':
+            if (num2 != 0) {
+                cout << num1 << " / " << num2 << " = " << num1 / num2 << endl;
+            } else {
+                cout << "Erro: divisão por zero!" << endl;
+            }
+            break;
+
+        default:
+            cout << "Operação inválida!" << endl;
+            break;
+    }
+
+    return 0;
+}
